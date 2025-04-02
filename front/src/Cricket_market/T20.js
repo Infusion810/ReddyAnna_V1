@@ -368,7 +368,7 @@ const T20Content = () => {
   
             toast.success("Bet placed successfully!");
             // setUserBet(newBet.label)
-            fetchBets();
+            // fetchBets();
             fetchNameWallet();
             // window.location.reload();
           } else {
